@@ -45,6 +45,8 @@ Network used - [MobileNet-SSD](https://github.com/chuanqi305/MobileNet-SSD)
 
 We can therefore detect 20 objects in images (+1 for the background class), including airplanes, bicycles, birds, boats, bottles, buses, cars, cats, chairs, cows, dining tables, dogs, horses, motorbikes, people, potted plants, sheep, sofas, trains, and tv monitors.
 
+## Results
+
 ![Alt Text](https://github.com/TheNsBhasin/DNN_Object_Detection/blob/master/output.gif)
 
 ![Alt Text](https://github.com/TheNsBhasin/DNN_Object_Detection/blob/master/sample.jpeg)
