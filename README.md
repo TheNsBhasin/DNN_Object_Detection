@@ -53,6 +53,8 @@ We can therefore detect 20 objects in images (+1 for the background class), incl
 
 ## References
 
+[Real-time object detection with deep learning and OpenCV](https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/)
+
 [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
 
 [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
